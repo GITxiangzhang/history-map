@@ -1,0 +1,11 @@
+.map {
+  position: absolute !important;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  font-family: "微软雅黑";
+}
+
+.BMap_Marker {
+  cursor: pointer !important;
+}
